@@ -18,5 +18,5 @@ The simple script to make beautiful `Neon Buttons` using HTML & CSS.
 
 Visit <a href="https://vikrant-v28.github.io/Hypnotic_Spiral/">Here</a>
 
-<!-- ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28) -->
+## *Author Name*
+[Vikrant](https://github.com/vikrant-v28)
