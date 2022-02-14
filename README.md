@@ -3,5 +3,9 @@
 </div>
 
 # Neon Buttons
-The simple script to make `Beautiful Neon Buttons` using HTML & CSS.
+The simple script to make beautiful `Neon Buttons` using HTML & CSS.
+
+### Prerequisites
+- HTML
+- CSS
 
